@@ -1,0 +1,144 @@
+17:46:25.781 [main] INFO  testcases.Tc_001_Accountregistrationpage - ****Tc_001_Accountregistrationpage **** 
+17:46:26.592 [main] INFO  testcases.Tc_001_Accountregistrationpage - clicked on signup
+17:46:27.337 [main] INFO  testcases.Tc_001_Accountregistrationpage - provider registration details
+17:46:29.419 [main] INFO  testcases.Tc_001_Accountregistrationpage - clicked on submit
+17:46:29.477 [main] INFO  testcases.Tc_001_Accountregistrationpage - finished
+17:47:52.981 [main] DEBUG io.netty.util.internal.logging.InternalLoggerFactory - Using Log4J2 as the default logging framework
+17:47:52.998 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+17:47:52.998 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+17:47:53.005 [main] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@33abde31
+17:47:53.027 [main] DEBUG io.netty.util.internal.PlatformDependent0 - -Dio.netty.noUnsafe: false
+17:47:53.027 [main] DEBUG io.netty.util.internal.PlatformDependent0 - Java version: 19
+17:47:53.029 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+17:47:53.029 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+17:47:53.030 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.storeFence: available
+17:47:53.031 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Buffer.address: available
+17:47:53.032 [main] DEBUG io.netty.util.internal.PlatformDependent0 - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+17:47:53.032 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+17:47:53.034 [main] DEBUG io.netty.util.internal.PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @1ed6993a
+17:47:53.034 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): unavailable
+17:47:53.035 [main] DEBUG io.netty.util.internal.PlatformDependent - sun.misc.Unsafe: available
+17:47:53.035 [main] DEBUG io.netty.util.internal.PlatformDependent - maxDirectMemory: 2086666240 bytes (maybe)
+17:47:53.036 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\venky\AppData\Local\Temp (java.io.tmpdir)
+17:47:53.036 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+17:47:53.036 [main] DEBUG io.netty.util.internal.PlatformDependent - Platform: Windows
+17:47:53.037 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.maxDirectMemory: -1 bytes
+17:47:53.038 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+17:47:53.040 [main] DEBUG io.netty.util.internal.CleanerJava9 - java.nio.ByteBuffer.cleaner(): available
+17:47:53.040 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+17:47:53.052 [main] DEBUG io.netty.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+17:47:53.084 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+17:47:53.084 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+17:47:53.173 [main] DEBUG io.netty.handler.ssl.JdkSslContext - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+17:47:53.174 [main] DEBUG io.netty.handler.ssl.JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+17:47:53.197 [main] DEBUG io.netty.channel.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 16
+17:47:53.204 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+17:47:53.204 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+17:47:53.258 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 16
+17:47:53.258 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 16
+17:47:53.258 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+17:47:53.258 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 9
+17:47:53.258 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 4194304
+17:47:53.258 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+17:47:53.258 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+17:47:53.258 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+17:47:53.258 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+17:47:53.258 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+17:47:53.258 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: false
+17:47:53.259 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+17:47:53.272 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.allocator.type: pooled
+17:47:53.272 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+17:47:53.272 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+17:47:53.638 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 33140 (auto-detected)
+17:47:53.640 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+17:47:53.640 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+17:47:53.650 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtilInitializations - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+17:47:53.651 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+17:47:53.680 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: e8:6f:38:ff:fe:cc:b2:71 (auto-detected)
+17:47:53.729 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+17:47:53.730 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+17:47:53.730 [AsyncHttpClient-1-2] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@7cbbebd4
+17:47:53.755 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+17:47:53.755 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+17:47:53.755 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.chunkSize: 32
+17:47:53.755 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.blocking: false
+17:47:54.894 [AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+17:47:55.043 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xe10c400aba6e9ddd
+17:47:59.175 [main] DEBUG testcases.Tc_001_Accountregistrationpage - application logs......
+17:47:59.175 [main] INFO  testcases.Tc_001_Accountregistrationpage - ****Tc_001_Accountregistrationpage **** 
+17:48:00.222 [main] INFO  testcases.Tc_001_Accountregistrationpage - clicked on signup
+17:48:00.968 [main] INFO  testcases.Tc_001_Accountregistrationpage - provider registration details
+17:48:02.344 [main] INFO  testcases.Tc_001_Accountregistrationpage - clicked on submit
+17:48:02.384 [main] INFO  testcases.Tc_001_Accountregistrationpage - finished
+18:22:19.802 [main] INFO  testcases.Tc_001_Accountregistrationpage - ****Tc_001_Accountregistrationpage **** 
+18:22:20.691 [main] INFO  testcases.Tc_001_Accountregistrationpage - clicked on signup
+18:22:21.389 [main] INFO  testcases.Tc_001_Accountregistrationpage - provider registration details
+18:22:24.070 [main] INFO  testcases.Tc_001_Accountregistrationpage - clicked on submit
+18:22:24.115 [main] INFO  testcases.Tc_001_Accountregistrationpage - finished
+18:25:48.918 [main] INFO  testcases.Tc_001_Accountregistrationpage - ****Tc_001_Accountregistrationpage **** 
+18:25:49.777 [main] INFO  testcases.Tc_001_Accountregistrationpage - clicked on signup
+18:25:50.476 [main] INFO  testcases.Tc_001_Accountregistrationpage - provider registration details
+18:25:51.532 [main] INFO  testcases.Tc_001_Accountregistrationpage - clicked on submit
+18:25:51.582 [main] INFO  testcases.Tc_001_Accountregistrationpage - finished
+18:26:34.737 [main] INFO  testcases.Tc_001_Accountregistrationpage - ****Tc_001_Accountregistrationpage **** 
+18:26:35.541 [main] INFO  testcases.Tc_001_Accountregistrationpage - clicked on signup
+18:26:36.247 [main] INFO  testcases.Tc_001_Accountregistrationpage - provider registration details
+18:26:37.415 [main] INFO  testcases.Tc_001_Accountregistrationpage - clicked on submit
+18:26:37.461 [main] INFO  testcases.Tc_001_Accountregistrationpage - finished
+18:26:44.749 [main] INFO  testcases.Tc_001_Accountregistrationpage - ****Tc_001_Accountregistrationpage **** 
+18:26:45.629 [main] INFO  testcases.Tc_001_Accountregistrationpage - clicked on signup
+18:26:46.213 [main] INFO  testcases.Tc_001_Accountregistrationpage - provider registration details
+18:26:47.191 [main] INFO  testcases.Tc_001_Accountregistrationpage - clicked on submit
+18:26:47.237 [main] INFO  testcases.Tc_001_Accountregistrationpage - finished
+18:37:53.512 [main] INFO  testcases.Tc_001_Accountregistrationpage - ****Tc_001_Accountregistrationpage **** 
+18:37:54.310 [main] INFO  testcases.Tc_001_Accountregistrationpage - clicked on signup
+18:37:54.978 [main] INFO  testcases.Tc_001_Accountregistrationpage - provider registration details
+18:37:57.111 [main] INFO  testcases.Tc_001_Accountregistrationpage - clicked on submit
+18:37:57.165 [main] INFO  testcases.Tc_001_Accountregistrationpage - finished
+19:03:05.816 [main] INFO  testcases.Tc_001_Accountregistrationpage - ****Tc_001_Accountregistrationpage **** 
+19:03:06.678 [main] INFO  testcases.Tc_001_Accountregistrationpage - clicked on signup
+19:03:07.320 [main] INFO  testcases.Tc_001_Accountregistrationpage - provider registration details
+19:03:09.360 [main] INFO  testcases.Tc_001_Accountregistrationpage - clicked on submit
+19:03:09.412 [main] INFO  testcases.Tc_001_Accountregistrationpage - finished
+19:04:50.066 [main] INFO  testcases.Tc_001_Accountregistrationpage - ****Tc_001_Accountregistrationpage **** 
+19:04:51.340 [main] INFO  testcases.Tc_001_Accountregistrationpage - clicked on signup
+19:04:52.010 [main] INFO  testcases.Tc_001_Accountregistrationpage - provider registration details
+19:04:53.010 [main] INFO  testcases.Tc_001_Accountregistrationpage - clicked on submit
+19:04:53.057 [main] INFO  testcases.Tc_001_Accountregistrationpage - finished
+19:07:41.949 [main] INFO  testcases.Tc_001_Accountregistrationpage - ****Tc_001_Accountregistrationpage **** 
+19:07:42.732 [main] INFO  testcases.Tc_001_Accountregistrationpage - clicked on signup
+19:07:43.167 [main] INFO  testcases.Tc_001_Accountregistrationpage - provider registration details
+19:07:43.232 [main] INFO  testcases.Tc_001_Accountregistrationpage - clicked on submit
+21:00:07.483 [main] INFO  testcases.Tc_002_Login - ***Tc_002 logintest started ***
+21:00:09.176 [main] INFO  testcases.Tc_002_Login - ***clicked on login***
+21:00:13.183 [main] INFO  testcases.Tc_002_Login - ***entered login detais ***
+21:00:13.231 [main] INFO  testcases.Tc_002_Login - ***login successfully ***
+21:00:13.231 [main] INFO  testcases.Tc_002_Login - ***login test finished ***
+22:01:52.694 [main] INFO  testcases.Tc_002_Login - ***Tc_002 logintest started ***
+22:01:54.691 [main] INFO  testcases.Tc_002_Login - ***clicked on login***
+22:01:57.666 [main] INFO  testcases.Tc_002_Login - ***entered login detais ***
+22:01:57.718 [main] INFO  testcases.Tc_002_Login - ***login successfully ***
+22:01:57.718 [main] INFO  testcases.Tc_002_Login - ***login test finished ***
+22:04:10.985 [main] INFO  testcases.Tc_002_Login - ***Tc_002 logintest started ***
+22:04:13.524 [main] INFO  testcases.Tc_002_Login - ***clicked on login***
+22:04:16.859 [main] INFO  testcases.Tc_002_Login - ***entered login detais ***
+22:04:16.919 [main] INFO  testcases.Tc_002_Login - ***login successfully ***
+22:04:16.919 [main] INFO  testcases.Tc_002_Login - ***login test finished ***
+22:05:57.294 [main] INFO  testcases.Tc_002_Login - ***Tc_002 logintest started ***
+22:06:00.336 [main] INFO  testcases.Tc_002_Login - ***clicked on login***
+22:06:01.212 [main] INFO  testcases.Tc_002_Login - ***entered login detais ***
+22:18:47.802 [main] INFO  testcases.Tc_002_Login - ***Tc_002 logintest started ***
+22:18:49.616 [main] INFO  testcases.Tc_002_Login - ***clicked on login***
+22:18:52.530 [main] INFO  testcases.Tc_002_Login - ***entered login detais ***
+22:18:52.629 [main] INFO  testcases.Tc_002_Login - ***login successfully ***
+22:18:52.629 [main] INFO  testcases.Tc_002_Login - ***login test finished ***
+22:33:47.138 [main] INFO  testcases.Tc_002_Login - ***Tc_002 logintest started ***
+22:33:48.860 [main] INFO  testcases.Tc_002_Login - ***clicked on login***
+22:33:51.852 [main] INFO  testcases.Tc_002_Login - ***entered login detais ***
+22:33:51.913 [main] INFO  testcases.Tc_002_Login - ***login successfully ***
+22:33:51.913 [main] INFO  testcases.Tc_002_Login - ***login test finished ***
+22:37:33.643 [main] INFO  testcases.Tc_002_Login - ***Tc_002 logintest started ***
+22:37:34.700 [main] INFO  testcases.Tc_002_Login - ***clicked on login***
+22:37:37.555 [main] INFO  testcases.Tc_002_Login - ***entered login detais ***
+22:37:37.626 [main] INFO  testcases.Tc_002_Login - ***login successfully ***
+22:37:37.626 [main] INFO  testcases.Tc_002_Login - ***login test finished ***
